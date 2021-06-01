@@ -1,3 +1,3 @@
 FROM quay.io/gsaslis/mikefarah_yq:4
 
-RUN apk add make
+RUN apk add make bash
